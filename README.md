@@ -6,6 +6,5 @@ $ export FLASK_APP=<filename>
 $ flask run
 ```
 
-
 *visist https://zerotomastery.io/ for more*
 
